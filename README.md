@@ -29,5 +29,14 @@ copies in one month, making it the best-selling album in South Korea after 24 ye
 A track from the EP, <i>Make It Right</i> released as second single featuring Lauv on<br>
 October 18, 2019.
 </center>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MS6SXHVMS2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MS6SXHVMS2');
+</script>
 </body>
 </html>
