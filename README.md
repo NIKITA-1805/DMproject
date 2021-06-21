@@ -11,7 +11,17 @@ h3{border-style solid;
 img{border: 3px solid black;
        padding:5px;}
       </style>
-<center><h3><i>.....MAP OF THE SOUL:PERSONA.....</i></h3></center></head>
+<center><h3><i>.....MAP OF THE SOUL:PERSONA.....</i></h3></center>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MS6SXHVMS2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MS6SXHVMS2');
+</script>
+</head>
 <hr>
 <body  style="background:#ffccd7; font-style:italic;">
 <center>
@@ -29,14 +39,6 @@ copies in one month, making it the best-selling album in South Korea after 24 ye
 A track from the EP, <i>Make It Right</i> released as second single featuring Lauv on<br>
 October 18, 2019.
 </center>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MS6SXHVMS2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-MS6SXHVMS2');
-</script>
 </body>
 </html>
